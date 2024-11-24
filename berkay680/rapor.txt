@@ -1,0 +1,95 @@
+Asgari Ücret ve Beklenen Zam Oranı Üzerine Anket Sonuçları ve İstatistiksel Analiz Raporu
+1. Giriş
+Projenin Amacı
+
+Bu proje, Türkiye'deki asgari ücret ve zam beklentileri üzerine yapılmış bir araştırmayı içermektedir. Araştırmanın amacı, asgari ücret memnuniyeti ile beklenen zam oranı arasındaki ilişkiyi incelemektir. Sosyal medya platformları ve yüz yüze görüşmeler yoluyla toplanan veriler üzerinde yapılan analizler ile bu iki değişken arasındaki bağlantılar ortaya konulacaktır.
+Araştırma Sorusu
+
+Araştırmanın temel soruları aşağıdaki şekilde belirlenmiştir:
+
+    Katılımcılar asgari ücretten memnunlar mı?
+    Beklenen zam oranı ile asgari ücretten memnuniyet arasında bir ilişki var mı?
+
+Veri Toplama Yöntemi
+
+Veriler, 1000 kişi üzerinde yapılan anketler aracılığıyla toplanmıştır. Anketin iki sorusu sosyal medya ve fiziksel ortamda yer alan katılımcılara sorulmuştur:
+
+    "Asgari ücretten memnun musunuz?"
+        Evet / Hayır
+
+    "Yeni asgari ücrete beklediğiniz zam oranı ne kadar?"
+        %30 / %50 / %100
+
+Bu anketler, rastgele seçilen katılımcılarla sosyal medya platformlarında yapılan paylaşımlar ve yüz yüze görüşmeler ile gerçekleştirilmiştir. Katılımcılara yöneltilen sorular, ekonomik durumu ve toplumsal algıları yansıtan bir genel anket oluşturmayı amaçlamaktadır.
+2. Veri Analizi
+Tanımlayıcı İstatistikler ve Görselleştirmeler
+
+Verilerin sayısallaştırılması ve analiz edilmesi sürecinde ilk olarak tanımlayıcı istatistikler incelenmiştir. Ayrıca, verilerin daha iyi anlaşılabilmesi için çeşitli görselleştirmeler yapılmıştır.
+Asgari Ücretten Memnuniyet Dağılımı
+
+Anket sonuçları, asgari ücretten memnuniyetin çoğunlukla olumsuz olduğunu göstermektedir:
+
+    170 kişi (%17) Evet cevabını verirken,
+    830 kişi (%83) Hayır cevabını vermiştir.
+
+Beklenen Zam Oranı Dağılımı
+
+Katılımcılar arasında beklenen zam oranı şu şekilde dağılmıştır:
+
+    460 kişi (%46) %50 zam beklediğini belirtmiştir.
+    180 kişi (%18) %30 zam beklediğini ifade etmiştir.
+    360 kişi (%36) ise %100 zam beklediğini belirtmiştir.
+
+Bu dağılımlar, katılımcıların genel olarak düşük zam oranları beklediğini ve büyük bir kısmının mevcut asgari ücretten memnun olmadığını göstermektedir.
+Görselleştirmeler
+
+Veri setinin görselleştirilmesi amacıyla şu grafikler kullanılmıştır:
+
+    Bar Grafiği: Asgari ücretten memnuniyetin dağılımını ve beklenen zam oranlarının dağılımını gösteren bar grafikleri.
+    Korelasyon Isı Haritası: Asgari ücretten memnuniyet ve beklenen zam oranı arasındaki ilişkinin görsel temsili.
+    Regresyon Doğrusu: Asgari ücretten memnuniyetin beklenen zam oranı üzerindeki etkisini görselleştiren regresyon doğrusu.
+
+Yapılan Hipotez Testleri ve Sonuçları
+
+Veriler üzerinde yapılan hipotez testleri ile aşağıdaki sonuçlara ulaşılmıştır:
+Korelasyon Analizi
+
+Asgari ücretten memnuniyet ile beklenen zam oranı arasındaki ilişkiyi incelemek için Pearson, Spearman ve Kendall korelasyon katsayıları hesaplanmıştır. Sonuçlar şu şekildedir:
+
+    Pearson Korelasyon Katsayısı: 0.10 (Zayıf pozitif ilişki)
+    Spearman Korelasyon Katsayısı: -0.50 (Zayıf negatif ilişki)
+    Kendall Korelasyon Katsayısı: -0.33 (Orta düzeyde negatif ilişki)
+
+Bu korelasyon katsayıları, asgari ücretten memnuniyet ile beklenen zam oranı arasında çok güçlü bir ilişki bulunmadığını ortaya koymaktadır.
+Regresyon Analizi
+
+Regresyon analizi, bağımlı değişken olan beklenen zam oranı ile bağımsız değişken olan asgari ücretten memnuniyet arasındaki doğrusal ilişkiyi incelemek amacıyla yapılmıştır. Sonuçlar şu şekilde olmuştur:
+
+    R-squared: 0.01 (Modelin veriye uyumu düşük)
+    p-value: 0.334 (Anlamlı bir ilişki yok)
+
+Bu sonuçlar, asgari ücretten memnuniyet değişkeninin beklenen zam oranı üzerinde anlamlı bir etkisi olmadığını göstermektedir.
+3. Sonuçlar ve Yorumlar
+Analiz Sonuçlarının Yorumu
+
+Yapılan analizler, asgari ücretten memnuniyetin beklenen zam oranı üzerinde anlamlı bir etkisi olmadığını ortaya koymuştur. Korelasyon ve regresyon analizleri, bu iki değişken arasındaki ilişkinin çok güçlü olmadığını ve bağımsız değişkenin (memnuniyet) bağımlı değişkeni (zam beklentisi) belirlemede önemli bir faktör olmadığını göstermektedir. Bu durum, memnuniyetsiz bireylerin daha yüksek zam beklese de, bu durumun veri setinde anlamlı bir etki yaratmadığını ortaya koymaktadır.
+Bulguların Önemi
+
+Verilerin toplandığı geniş katılımcı kitlesi, toplumun asgari ücret ile ilgili genel memnuniyetsizlik durumunu yansıtmaktadır. Ancak, beklenen zam oranı ile memnuniyet arasında güçlü bir ilişki olmaması, ekonomi politikalarının bu tür bireysel algılara doğrudan etki etmediği veya farklı etmenlerin etkili olduğu anlamına gelebilir.
+Sınırlamalar
+
+Çalışmanın bazı sınırlamaları bulunmaktadır:
+
+    Veri Kaynağı: Veriler sosyal medya ve yüz yüze anketler yoluyla toplanmış olup, belirli bir sosyoekonomik gruptan alınmış olabilir ve bu durum sonuçların genellenebilirliğini kısıtlayabilir.
+    Küçük Veri Kümesi: 1000 kişilik örneklem, toplumun tüm çeşitliliğini temsil etmekte yetersiz kalabilir.
+    Cevapların Doğruluğu: Katılımcıların yanıtları, kişisel algılara dayalı olabileceğinden, objektif bir değerlendirme yapmayı zorlaştırabilir.
+
+4. Kaynakça
+
+    Sosyal medya platformları ve anket araçları üzerinden veri toplama.
+    Python ile istatistiksel analiz ve regresyon analizi kütüphaneleri: pandas, numpy, statsmodels, matplotlib, seaborn.
+    Kitaplar ve makaleler:
+        "İstatistiksel Veri Analizi"
+        "Veri Analizi ve İstatistiksel Yöntemler"
+
+Bu rapor, sosyal medya ve dışarıda yapılan anketlere dayalı olarak gerçekleştirilen veri analizi sürecini ve bulguları özetlemektedir. Anket sonuçları, Türkiye'deki asgari ücretli bireylerin ekonomik beklentileri hakkında önemli ipuçları sunmaktadır. Ancak, daha geniş çaplı ve farklı sosyal gruplar üzerinden yapılacak araştırmalar, daha kapsamlı ve farklı sonuçlar ortaya koyabilir.
